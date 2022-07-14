@@ -1,0 +1,44 @@
+{
+  "chiness_word": [
+    {
+      "id": "0",
+      "word_title": "走",
+      "word_pronunciation": "zǒ",
+      "word_mean": "걷다 / 뛰다 / 움직이다 / 떠나다",
+      "word_ex_ch": "那么，我们走吧？",
+      "word_ex_kr": "어디, 이제 그만 일어날까?"
+    },
+    {
+      "id": "1",
+      "word_title": "飞机",
+      "word_pronunciation": "fēijī",
+      "word_mean": "비행기",
+      "word_ex_ch": "我乘飞机去美国",
+      "word_ex_kr": "나는 비행기를 타고 미국에 간다."
+    },
+    {
+      "id": "2",
+      "word_title": "密码",
+      "word_pronunciation": "mìmǎ",
+      "word_mean": "비밀번호",
+      "word_ex_ch": "设置密码",
+      "word_ex_kr": "비밀 번호를 설정하다."
+    },
+    {
+      "id": "3",
+      "word_title": "知道",
+      "word_pronunciation": "zhī‧dào",
+      "word_mean": "알다 / 이해하다",
+      "word_ex_ch": "我怎么一点儿都不知道呢？？",
+      "word_ex_kr": "난 어째서 전혀 몰랐지?"
+    },
+    {
+      "id": "4",
+      "word_title": "西瓜",
+      "word_pronunciation": "xīguā",
+      "word_mean": "수박",
+      "word_ex_ch": "这西瓜很香甜。",
+      "word_ex_kr": "이 수박은 달고 맛있다."
+    }
+  ]
+}

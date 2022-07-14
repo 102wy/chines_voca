@@ -1,0 +1,44 @@
+.item {
+  padding: 20px;
+  border: 2px solid rgb(10, 112, 41);
+  border-radius: 10px;
+  width: calc((100% - 40px) / 3);
+  text-align: left;
+  background-color: rgba(255, 255, 255, 0.4);
+  position: relative;
+  h5 {
+    font-size: 1.5rem;
+    padding: 0.2rem 0;
+    cursor: default;
+  }
+  span {
+    cursor: default;
+  }
+  p {
+    padding: 0.2rem 0;
+    cursor: default;
+  }
+  div {
+    color: rgb(9, 132, 227);
+    cursor: default;
+  }
+  .buttonBox {
+    position: absolute;
+    right: 20px;
+    top: 20px;
+    button {
+      border: none;
+      background: none;
+      padding: 0 0.4rem;
+      cursor: pointer;
+      .buttonIcon {
+        color: rgb(10, 112, 41);
+        font-size: 1.3rem;
+      }
+    }
+  }
+}
+.greenItem {
+  background-color: rgb(10, 112, 41);
+  color: #fff;
+}
